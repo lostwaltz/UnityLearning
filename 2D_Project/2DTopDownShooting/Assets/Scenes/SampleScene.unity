@@ -1500,7 +1500,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileSpawnPostion: {fileID: 2003929470}
-  TestPrefab: {fileID: 2799740083922774361, guid: e484b0fa68499144eb2defc64e53a564, type: 3}
+  Arrow: {fileID: 2799740083922774361, guid: e484b0fa68499144eb2defc64e53a564, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2320,7 +2320,7 @@ GameObject:
   - component: {fileID: 1031209463}
   m_Layer: 0
   m_Name: Collison
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

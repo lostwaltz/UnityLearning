@@ -1,5 +1,6 @@
 ﻿using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class TopDownMovement : MonoBehaviour
 {
@@ -18,6 +19,11 @@ public class TopDownMovement : MonoBehaviour
     private void Start()
     {
         controller.OnMoveEvent += Move;
+    }
+
+    public void SetMoveDirection(Vector2 direction)
+    {
+        movementDirection = direction;
     }
 
     private void Move(Vector2 direction)

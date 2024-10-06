@@ -27,14 +27,13 @@ public class TopDownController : MonoBehaviour
         {
             timeSinceLastAttack += Time.deltaTime;
         }
-        else if(isAttacking && timeSinceLastAttack >= 0.2f)
+        else if(true == isAttacking && timeSinceLastAttack >= 0.2f)
         {
             timeSinceLastAttack = 0f;
             CallAttackEvent();
         }
 
     }
-
 
     public void CallMoveEvent(Vector2 direction)
     {

@@ -1,5 +1,6 @@
 ﻿using System;
 using Unity.VisualScripting;
+using UnityEditor.PackageManager;
 using UnityEngine;
 
 public class TopDownShooting : MonoBehaviour
@@ -9,7 +10,7 @@ public class TopDownShooting : MonoBehaviour
     [SerializeField] private Transform projectileSpawnPostion;
     private Vector2 aimDirection = Vector2.right;
 
-    public GameObject TestPrefab;
+    public GameObject Arrow;
 
     private void Awake()
     {
@@ -36,6 +37,7 @@ public class TopDownShooting : MonoBehaviour
     private void CreateProjectile()
     {
         // TODO :: 투사체 날라가게
-        Instantiate(TestPrefab, projectileSpawnPostion.position, Quaternion.identity);
+        float rotZ = Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg;
+        Instantiate(Arrow, projectileSpawnPostion.position, Quaternion.Euler(0, 0, rotZ));
     }
 }
