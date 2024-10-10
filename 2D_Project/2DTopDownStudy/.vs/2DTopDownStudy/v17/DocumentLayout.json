@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|c:\\workspace\\unity\\unitylearning\\2d_project\\2dtopdownstudy\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|c:\\workspace\\unity\\unitylearning\\2d_project\\2dtopdownstudy\\assets\\scripts\\nametaghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nametaghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\memberlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\memberlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\manager\\playerprefsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\playerprefsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\playertopdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playertopdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\topdownrotationlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdownrotationlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\interactionpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\dialogumessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogumessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\playerspowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\utilty\\uivalueporvider\\uiinputfieldvaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilty\\uivalueporvider\\uiinputfieldvaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\utilty\\uivalueporvider\\uitextvaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilty\\uivalueporvider\\uitextvaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\utilty\\uivalueporvider\\uivaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilty\\uivalueporvider\\uivaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\utilty\\uivalueporvider\\uivaluesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilty\\uivalueporvider\\uivaluesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\ScriptableObject\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ScriptableObject\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\topdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\utilty\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilty\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\targetcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\InputTextValueProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Utilty\\UIValuePorvider\\InputTextValueProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\SaveEditName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveEditName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\assets\\scripts\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DCC10-7345-D8EF-BF10-475BF20DD4CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\AnimationTestScripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AnimationTestScripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\NameTag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NameTag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\SceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\MemberTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MemberTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\LifeCycleEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LifeCycleEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameTagHandler.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\NameTagHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NameTagHandler.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\NameTagHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NameTagHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:40:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:00:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Event.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Event.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Event.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Event.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:21:28.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LifeCycleEvent.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\LifeCycleEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LifeCycleEvent.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\LifeCycleEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LifeCycleEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:48:26.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:43:04.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Enum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enum.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Enum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:42:43.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerSpowner.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\PlayerSpowner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpowner.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\PlayerSpowner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpowner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:42:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberList.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\MemberList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MemberList.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\MemberList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MemberList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:20:25.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MemberTracker.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\MemberTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MemberTracker.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\MemberTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MemberTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:12:06.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UITextValueHandler.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UITextValueHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UITextValueHandler.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UITextValueHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UITextValueHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:07:58.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UIInputFieldValueHandler.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UIInputFieldValueHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UIInputFieldValueHandler.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UIInputFieldValueHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UIInputFieldValueHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:07:55.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIValueSaver.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueSaver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueSaver.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueSaver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:07:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIValueHandler.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueHandler.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilty\\UIValuePorvider\\UIValueHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:53:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DialoguMessage.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\DialoguMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialoguMessage.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\DialoguMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialoguMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvykAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:52:45.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterActionPublisher.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\InterActionPublisher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InterActionPublisher.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\InterActionPublisher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InterActionPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:10:13.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CharacterData.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\ScriptableObject\\CharacterData.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptableObject\\CharacterData.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\ScriptableObject\\CharacterData.cs",
+              "RelativeToolTip": "Assets\\ScriptableObject\\CharacterData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:06:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilty\\SceneChanger.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilty\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:50:39.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Singleton.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:25:28.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerPrefsManager.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\PlayerPrefsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\PlayerPrefsManager.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Manager\\PlayerPrefsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\PlayerPrefsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:27:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InputTextValueProvider.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\InputTextValueProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilty\\UIValuePorvider\\InputTextValueProvider.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\Utilty\\UIValuePorvider\\InputTextValueProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilty\\UIValuePorvider\\InputTextValueProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NameTag.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\NameTag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NameTag.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\NameTag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NameTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:37:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:17:58.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnimationTestScripts.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\AnimationTestScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimationTestScripts.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\AnimationTestScripts.cs",
+              "RelativeToolTip": "Assets\\AnimationTestScripts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:02:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaveEditName.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\SaveEditName.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveEditName.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\SaveEditName.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveEditName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:31:54.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TargetCamera.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TargetCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetCamera.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TargetCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:11:49.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TopDownMovement.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TopDownMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownMovement.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TopDownMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopDownMovement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:33:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerTopDownController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\PlayerTopDownController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTopDownController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\PlayerTopDownController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerTopDownController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:54:04.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TopDownController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TopDownController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TopDownController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopDownController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:40:10.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopDownRotationLook.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TopDownRotationLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownRotationLook.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownStudy\\Assets\\Scripts\\TopDownRotationLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopDownRotationLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:09:47.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
