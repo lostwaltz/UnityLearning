@@ -9,14 +9,3 @@ internal class OnClickInputNameButton : EventArgs
     {
     }
 }
-internal class NameTagChangeEvent : EventArgs
-{
-    public NameTagChangeEvent(string name, bool create)
-    {
-        this.name = name;
-        this.create = create;
-    }
-
-    public string name;
-    public bool create;
-}

@@ -66,6 +66,5 @@ public class NameTagHandler : MonoBehaviour
         }
 
         UIManager.Instance.memberListComponent.AddMember(nameText);
-
     }
 }

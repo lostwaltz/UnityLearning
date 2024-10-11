@@ -14,12 +14,14 @@ public class DialoguMessage : MonoBehaviour
 
     private void OnEnable()
     {
-        SetMassage(messageIndex);
+        messageIndex = 0;
+        SetMassage(0);
     }
 
     private void Start()
     {
-        SetMassage(messageIndex);
+        messageIndex = 0;
+        SetMassage(0);
     }
 
 

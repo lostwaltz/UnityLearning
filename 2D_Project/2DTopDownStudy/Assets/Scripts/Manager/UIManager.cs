@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -21,8 +22,14 @@ public class UIManager : Singleton<UIManager>
     {
         Image[] components = memberListUI.GetComponentsInChildren<Image>();
 
-        // 모든 컴포넌트의 enabled 속성을 false로 설정하여 끔
         foreach (Image component in components)
+        {
+            component.enabled = !component.enabled;
+        }
+
+        TMP_Text[] textComponents = memberListUI.GetComponentsInChildren<TMP_Text>();
+
+        foreach (TMP_Text component in textComponents)
         {
             component.enabled = !component.enabled;
         }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MemberList : MonoBehaviour
 {
@@ -41,7 +42,11 @@ public class MemberList : MonoBehaviour
         {
             GameObject instanceObject = Instantiate(textPrefab, gameObject.transform);
 
-            instanceObject.GetComponent<TMP_Text>().text = value;
+            TMP_Text component = instanceObject.GetComponent<TMP_Text>();
+
+            component.text = value;
+            component.enabled = gameObject.GetComponent<Image>().enabled;
+
 
             objectContanier.Add(instanceObject);
         }

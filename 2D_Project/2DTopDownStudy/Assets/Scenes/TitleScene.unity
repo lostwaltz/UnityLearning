@@ -373,50 +373,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 472053064}
   m_CullTransparentMesh: 1
---- !u!1 &1338524399
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1338524401}
-  - component: {fileID: 1338524400}
-  m_Layer: 0
-  m_Name: Proxy
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1338524400
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1338524399}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 04f74a5a95d8dfe4089173e4d54e93c7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &1338524401
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1338524399}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 668.4319, y: 739.7019, z: -20.455198}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1657969080
 GameObject:
   m_ObjectHideFlags: 0
@@ -732,6 +688,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3050930648713328297, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118576946013840565, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8e77e6f65b182f54b97140f37eb69b2f, type: 2}
+    - target: {fileID: 3118576946013840565, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 3094620071472812196, guid: 8e77e6f65b182f54b97140f37eb69b2f, type: 2}
+    - target: {fileID: 3118576946013840565, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6461916600065219088, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
@@ -1084,4 +1052,3 @@ SceneRoots:
   - {fileID: 1752822958}
   - {fileID: 426499936}
   - {fileID: 21723377}
-  - {fileID: 1338524401}
