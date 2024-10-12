@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\behaviors\\destroyondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\behaviors\\destroyondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|c:\\workspace\\unity\\unitylearning\\2d_project\\2dtopdownshooting\\assets\\scripts\\entites\\controller\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\controller\\topdownanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\topdownanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\behaviors\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\behaviors\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\controller\\topdowncontactenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\topdowncontactenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\behaviors\\topdownshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\behaviors\\topdownshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\util\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\util\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\controller\\topdownrangeenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\topdownrangeenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\controller\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\controller\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\entites\\controller\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entites\\controller\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scriptableobjects\\scripts\\attackso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptableobjects\\scripts\\attackso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scriptableobjects\\scripts\\rangedattackso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptableobjects\\scripts\\rangedattackso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\stats\\characterstatshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\characterstatshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\assets\\scripts\\stats\\characterstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE0111F-6E23-AF0A-2013-331C6C65F6B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\characterstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\TopDownShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TopDownShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +54,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 184,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "TopDownShooting.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Behaviors\\TopDownShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Behaviors\\TopDownShooting.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Behaviors\\TopDownShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Behaviors\\TopDownShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:01:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ObjectPool.cs",
               "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Util\\ObjectPool.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Util\\ObjectPool.cs",
               "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Util\\ObjectPool.cs",
               "RelativeToolTip": "Assets\\Scripts\\Util\\ObjectPool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:03:08.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CharacterStatsHandler.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Stats\\CharacterStatsHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\CharacterStatsHandler.cs",
-              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Stats\\CharacterStatsHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Stats\\CharacterStatsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:03:54.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CharacterStat.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Stats\\CharacterStat.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\CharacterStat.cs",
-              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Stats\\CharacterStat.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Stats\\CharacterStat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:58:34.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RangedAttackSO.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\ScriptableObjects\\Scripts\\RangedAttackSO.cs",
-              "RelativeDocumentMoniker": "Assets\\ScriptableObjects\\Scripts\\RangedAttackSO.cs",
-              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\ScriptableObjects\\Scripts\\RangedAttackSO.cs",
-              "RelativeToolTip": "Assets\\ScriptableObjects\\Scripts\\RangedAttackSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:57:09.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AttackSO.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\ScriptableObjects\\Scripts\\AttackSO.cs",
-              "RelativeDocumentMoniker": "Assets\\ScriptableObjects\\Scripts\\AttackSO.cs",
-              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\ScriptableObjects\\Scripts\\AttackSO.cs",
-              "RelativeToolTip": "Assets\\ScriptableObjects\\Scripts\\AttackSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T04:58:28.559Z"
+              "WhenOpened": "2024-10-12T05:59:47.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Arrow.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Arrow.cs",
-              "RelativeDocumentMoniker": "Assets\\Arrow.cs",
-              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Arrow.cs",
-              "RelativeToolTip": "Assets\\Arrow.cs",
+              "Title": "TopDownRangeEnemyController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownRangeEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\TopDownRangeEnemyController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownRangeEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\TopDownRangeEnemyController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwE4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:27:41.719Z"
+              "WhenOpened": "2024-10-12T05:03:45.644Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TopDownShooting.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\TopDownShooting.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownShooting.cs",
-              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\TopDownShooting.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TopDownShooting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T12:01:43.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "PlayerInputController.cs",
               "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\PlayerInputController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\PlayerInputController.cs",
               "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\PlayerInputController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\PlayerInputController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:06:09.364Z"
+              "WhenOpened": "2024-10-12T04:56:01.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\AnimationController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\AnimationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:55:59.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TopDownController.cs",
               "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\TopDownController.cs",
               "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\TopDownController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:59:45.364Z"
+              "WhenOpened": "2024-10-12T04:54:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestroyOnDeath.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Behaviors\\DestroyOnDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Behaviors\\DestroyOnDeath.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Behaviors\\DestroyOnDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Behaviors\\DestroyOnDeath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:28:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopDownContactEnemyController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownContactEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\TopDownContactEnemyController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownContactEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\TopDownContactEnemyController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:14:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectileController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\ProjectileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\ProjectileController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\ProjectileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\ProjectileController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:05:34.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopDownAnimationController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownAnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Controller\\TopDownAnimationController.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Controller\\TopDownAnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Controller\\TopDownAnimationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:03:48.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthSystem.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Behaviors\\HealthSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entites\\Behaviors\\HealthSystem.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\2DTopDownShooting\\Assets\\Scripts\\Entites\\Behaviors\\HealthSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entites\\Behaviors\\HealthSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:53:30.893Z",
+              "EditorCaption": ""
             }
           ]
-        },
-        {
-          "DockedWidth": 216,
-          "SelectedChildIndex": -1,
-          "Children": []
         }
       ]
     }

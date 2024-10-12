@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System;
+using Unity.VisualScripting;
+using UnityEngine;
 
 public class ProjectileController : MonoBehaviour
 {
@@ -20,7 +22,7 @@ public class ProjectileController : MonoBehaviour
     {
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         _rigidbody = GetComponent<Rigidbody2D>();
-        _trailRenderer = GetComponent<TrailRenderer>();
+        _trailRenderer = GetComponentInChildren<TrailRenderer>();
     }
 
     private void Update()
@@ -90,8 +92,28 @@ public class ProjectileController : MonoBehaviour
         }
         else if(IsLayerMatched(attackData.target.value, collision.gameObject.layer))
         {
-            // TODO :: 데미지
+            HealthSystem healthSystem = collision.GetComponent<HealthSystem>();
+            if(healthSystem != null)
+            {
+                bool isAttackApplied = healthSystem.ChangeHealth(-attackData.power);
+
+                if (isAttackApplied)
+                {
+                    ApplyKnockback(collision);
+                }
+            }
+
             DestroyProjectile(collision.ClosestPoint(transform.position), fxOnDestroy);
         }
+    }
+
+    private void ApplyKnockback(Collider2D collision)
+    {
+        TopDownMovement movement = collision.GetComponent<TopDownMovement>();
+        if(movement != null)
+        {
+            movement.ApplyKnockback(transform, attackData.knockbackPower, attackData.knockbackTime);
+        }
+
     }
 }
