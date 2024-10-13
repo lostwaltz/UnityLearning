@@ -3879,7 +3879,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f58cf5eb7bf18a429c8a59ffefd2e9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthChangeDelay: 0.5
+  healthChangeDelay: 0
 --- !u!114 &1990187364
 MonoBehaviour:
   m_ObjectHideFlags: 0
