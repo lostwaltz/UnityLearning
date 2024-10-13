@@ -373,6 +373,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 472053064}
   m_CullTransparentMesh: 1
+--- !u!114 &1479585107 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4361135876895546288, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+  m_PrefabInstance: {fileID: 4545777617748635116}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4545777617748635118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3690ea7291e3fef438348aa6a362e75f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1657969080
 GameObject:
   m_ObjectHideFlags: 0
@@ -702,6 +713,22 @@ PrefabInstance:
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3816270469267142105, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3816270469267142105, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 4545777617748635119}
+    - target: {fileID: 3816270469267142105, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CheackInvokeTextLenght
+      objectReference: {fileID: 0}
+    - target: {fileID: 3816270469267142105, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CheackValue, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 6461916600065219088, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
       propertyPath: m_Name
       value: InputPannel
@@ -709,8 +736,57 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5275466895682562306, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4545777617748635119}
   m_SourcePrefab: {fileID: 100100000, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+--- !u!114 &4545777617748635117 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1778466637714931819, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+  m_PrefabInstance: {fileID: 4545777617748635116}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &4545777617748635118 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5275466895682562306, guid: 2358c6310183dbd49b26458166e7f11e, type: 3}
+  m_PrefabInstance: {fileID: 4545777617748635116}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4545777617748635119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4545777617748635118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a67462cd7c4024cb845007cde86c0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InputField: {fileID: 4545777617748635117}
+  minValue: 2
+  maxValue: 10
+  invokeEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1479585107}
+        m_TargetAssemblyTypeName: SceneChanger, Assembly-CSharp
+        m_MethodName: ChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: MainScene
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &4601880204688741867
 PrefabInstance:
   m_ObjectHideFlags: 0
