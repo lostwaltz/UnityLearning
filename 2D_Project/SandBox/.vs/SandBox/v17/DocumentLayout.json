@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\SandBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CFE341-6E3F-2310-0882-712BFAC4CF37}|Assembly-CSharp.csproj|c:\\workspace\\unity\\unitylearning\\2d_project\\sandbox\\assets\\printlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CFE341-6E3F-2310-0882-712BFAC4CF37}|Assembly-CSharp.csproj|solutionrelative:assets\\printlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintLayer.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\SandBox\\Assets\\PrintLayer.cs",
+              "RelativeDocumentMoniker": "Assets\\PrintLayer.cs",
+              "ToolTip": "C:\\WorkSpace\\Unity\\UnityLearning\\2D_Project\\SandBox\\Assets\\PrintLayer.cs",
+              "RelativeToolTip": "Assets\\PrintLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:26:28.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
